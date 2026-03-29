@@ -1,0 +1,15 @@
+# Stereo Visual Odometry and 3D Mapping
+# Requirements for classical computer vision project
+
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scipy>=1.10.0
+
+# Optional for better visualization
+opencv-contrib-python>=4.8.0
+
+# For 3D visualization (optional)
+# mayavi>=4.16.0
+# plotly>=5.10.0
